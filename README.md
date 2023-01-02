@@ -1,21 +1,19 @@
-"# CSCI8363_Transformers" 
+Analysis of Transformers
 
-Unable to add saved models as they are too large
+Used RoBERTa, BERT, GPT2, GPTNeo1.3B on sentiment analysis (SA), natural language inference (NLI), question answering (QA)
 
-Unable to add Datasets as they are too large 
+Can find used Datasets here for NLP tasks:
 
-Can find Datasets here:
-
-SST
+SST (SA)
 
 https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data
 
 
-SNLI
+SNLI (NLI)
 
 https://nlp.stanford.edu/projects/snli/
 
 
-SQUAD2.0
+SQUAD2.0 (QA)
 
 https://rajpurkar.github.io/SQuAD-explorer/

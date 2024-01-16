@@ -1,8 +1,8 @@
 # Analysis of GPT and BERT based Transformer Models
 </br>
 For more detailed information you can find in my paper:
-</br>
-[Analysis on GPT and Bert Based Transformer Models](Transformer_Analysis.pdf)
+
+[Paper Here](Transformer_Analysis.pdf)
 
 Where I compared RoBERTa, BERT, GPT2, GPTNeo1.3B on NLP tasks sentiment analysis (SA), natural language inference (NLI), question answering (QA)
 
